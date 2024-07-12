@@ -27,7 +27,7 @@ export class Mission{
   missionImages:any;
   missionDocuments:any;
   missionAvilability:string='';
-  misssionVideoUrl:string='';
+  missionVideoUrl:string='';
   missionThemeName:string='';
   missionSkillName:string='';
   missionStatus:string='';
